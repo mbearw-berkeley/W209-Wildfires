@@ -10,3 +10,5 @@ dependencies:
   - scikit-learn
   - jupyter
   - pip
+  - altair
+  - vega_datasets
